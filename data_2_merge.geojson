@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "data_2_merge",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:IAU_2015::39915" } },
+"features": [
+
+]
+}
